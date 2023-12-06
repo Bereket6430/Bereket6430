@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Bereket6430
-- 👀 I’m interested in ...software development
-- 🌱 I’m currently learning ...react
+- 👋 Hi, I’m Bereket Birhanu
+- 👀 I’m interested in ...Web Development
+- 🌱 I’m currently learning ...ALX Software Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
