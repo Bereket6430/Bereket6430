@@ -60,15 +60,10 @@
 
 
 
-
+<!-- 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Bereket6430&show_icons=true&theme=radical"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?Bereket6430&layout=compact"/>
-
-
-
-
-<!-- ![](https://komarev.com/ghpvc/?username=abdj123&style=flat-square) -->
-
+-->
 
 
 
@@ -77,13 +72,12 @@
 
 
 
-<!--
-**abdj123/abdj123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-![](https://komarev.com/ghpvc/?username=abdj123&style=flat-square)
-<img align="left"  src=""/>
+
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
