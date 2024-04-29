@@ -7,7 +7,7 @@
   - Software Engineering
   
   ### 🔭 I’m currently working on
-  1. Backend Development using NodeJS and ASP.NET
+  1. Backend Development using Laravel and ASP.NET
   2. Machine Learning 
   
 ### 🌱 I’m currently learning
