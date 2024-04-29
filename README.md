@@ -28,11 +28,14 @@
 <img align="left"  src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> 
 <img align="left"  src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>  
 <img   src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  
+<img src= "https://img.shields.io/badge/php-%230175C2.svg?style=for-the-badge&logo=php&logoColor=white"/>
 
 #### Frameworks, Platforms and Libraries
 
 <img align="left"  src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl"/>
+<img src="https://img.shields.io/badge/laravel-%230175C2.svg?style=for-the-badge&logo=laravel&logoColor=red"/>
+<img src="https://img.shields.io/badge/react-%230175C2.svg?style=for-the-badge&logo=react&logoColor=white"/>
 
 
 
