@@ -7,16 +7,9 @@
   - Software Engineering
   
   ### 🔭 I’m currently working on
-  1. Backend Development using Laravel and ASP.NET
+  1. Backend Development using Laravel
   2. Machine Learning 
   
-### 🌱 I’m currently learning
-  1. Full Stack Web Development at ALX
-
-
-### 👯 I’m looking to collaborate on
-  1. opensource ASP.NET based projects
-
 ### 📫 How to reach me: beksecured1@gmail.com
 
 
